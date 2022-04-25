@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kybo</h1>
 <h3 align="center">A passionate developer and french student</h3>
 
-- 🔭 I’m currently working on [Nesa Corporation Website](https://nesacorporation.fr/)
+- 🔭 I’m currently working on my **nextcloud server**
 
 - 🌱 I’m currently learning **Web Development Technology**
 
